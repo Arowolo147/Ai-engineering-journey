@@ -1,6 +1,6 @@
 # AI Engineering Journey
 
-Personal learning repository documenting my path from Python basics to becoming an AI Engineer.
+Personal repository documenting my learning path from **Python basics** to becoming an **AI Engineer**.
 
 ## Current Focus
 Python Fundamentals
@@ -9,33 +9,32 @@ Python Fundamentals
 
 ### Python Basics
 - [x] Variables & Data Types
-- [x] Operators
+- [ ] Operators
 - [ ] Control Flow (if/else, loops)
 - [ ] Functions
-- [ ] Lists, Tuples, Dictionaries, Sets
+- [ ] Lists, Tuples, Dictionaries & Sets
 - [ ] File Handling
 - [ ] Error Handling
 - [ ] Object-Oriented Programming (OOP)
 - [ ] Modules & Packages
 
-### Next Stages
+### Upcoming Stages
 - Intermediate Python
 - NumPy & Pandas
 - Data Visualization
-- Machine Learning Fundamentals
+- Machine Learning
 - Deep Learning
-- Projects & Portfolio
+- Real Projects
 
-## Projects & Practice
-| Project | Description | Status |
-|---------|-------------|--------|
-| Rock Paper Scissors | Simple game | Done |
-| Flashcard Quiz | Quiz with score tracking | Done |
-| Candidate Evaluation | Practice script | Done |
+## Practice Files
+All beginner practice codes are inside [`01-python-basics/practice`](01-python-basics/practice)
 
-## Learning Log
-I update this section regularly with what I learn.
+| File | Description |
+|------|-------------|
+| `data_types.py` | Practicing Python data types |
+| `rps.py` | Rock-Paper-Scissors game |
+| `quiz.py` | Flashcard quiz with score tracking |
+| `candidate_evaluation.py` | Simple evaluation script |
 
----
-
-**Goal**: Build strong fundamentals and consistently ship projects until I become job-ready as an AI Engineer.
+## Goal
+Build strong fundamentals and consistently document my progress until I become job-ready as an AI Engineer.
