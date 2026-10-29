@@ -12,7 +12,7 @@ Python Fundamentals
 - [ ] Operators
 - [ ] Control Flow (if/else, loops)
 - [ ] Functions
-- [ ] Lists, Tuples, Dictionaries & Sets
+- [x] Lists, Tuples, Dictionaries & Sets
 - [ ] File Handling
 - [ ] Error Handling
 - [ ] Object-Oriented Programming (OOP)
