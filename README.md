@@ -10,8 +10,8 @@ Python Fundamentals
 ### Python Basics
 - [x] Variables & Data Types
 - [ ] Operators
-- [ ] Control Flow (if/else, loops)
-- [ ] Functions
+- [x] Control Flow (if/else, loops)
+- [x] Functions
 - [x] Lists, Tuples, Dictionaries & Sets
 - [ ] File Handling
 - [ ] Error Handling
