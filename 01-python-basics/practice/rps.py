@@ -3,25 +3,22 @@ import random
 from enum import Enum
 
 class RPS(Enum):
-    APPLE = 1
-    BALL = 2
-    CAT = 3
+    ROCK  = 1
+    PAPER = 2
+    SCISSORS = 3
 
 print("")
-playerchoice = input("Enter...\n1 for apple,\n2 for ball,\n3 for cat:\n\n")
+playerchoice = input("Enter...\n1 for rock,\n2 for paper,\n3 for scissors:\n\n")
 
 player = int(playerchoice)
 
 if player < 1 or player > 3:
     sys.exit("you must enter 1,2,or 3")
 
-computerchoice = random.choice("123")
-computer = int(computerchoice)
+computer = random.randint(1,3)
 
-print("")
-print("you chose" + playerchoice + ".")
-print("python chose" + computerchoice + ".")
-print("")
+print(f"you chose {playerchoice}.")
+print(f"python chose {computer}.")
 
 if player == 1 and computer == 3:
     print("you win!🎉")
