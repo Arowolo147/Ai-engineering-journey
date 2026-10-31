@@ -35,6 +35,7 @@ All beginner practice codes are inside [`01-python-basics/practice`](01-python-b
 | `rps.py` | Rock-Paper-Scissors game |
 | `quiz.py` | Flashcard quiz with score tracking |
 | `candidate_evaluation.py` | Simple evaluation script |
+| `dictionary_and_sets.py` | Practice on Dictionaries and Sets |
 
 ## Goal
 Build strong fundamentals and consistently document my progress until I become job-ready as an AI Engineer.
